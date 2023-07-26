@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **sizan.szn@gmail.com**
 
+ <p align="center">
+  <img src="https://cdn.devdojo.com/images/november2020/cmdp.gif" alt="animated" height=300 width=500 />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shiamahmedsizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiamahmedsizan" height="30" width="40" /></a>
