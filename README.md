@@ -1,3 +1,4 @@
+![logo](https://github.com/Sizan99/Sizan99/blob/main/pxfuel.jpg)
 <h1 align="center">AssalamuAlaikum, I'm Shiam Ahmed Sizan</h1>
 <h3 align="center">A UI/UX Designer as well as a Mobile App Developer from Bangladesh</h3>
 
