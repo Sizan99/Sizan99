@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sizan99&label=Profile%20views&color=0e75b6&style=flat" alt="sizan99" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
-- 💬 Ask me about **UI/UX Designs and Front End Development**
+- 💬 Ask me about **UI/UX Designs and Mobile App Development**
 
 - 📫 How to reach me **sizan.szn@gmail.com**
 
