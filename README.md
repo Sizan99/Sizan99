@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Shiam Ahmed Sizan</h1>
-<h3 align="center">MSc Artificial Intelligence · Aston University · British Council GREAT Scholar 2025</h3>
+<h1 align="center">Hi, I'm Sizan</h1>
+<h3 align="center">MSc Artificial Intelligence · GREAT Scholar 2025</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shiamahmedsizan">
