@@ -1,78 +1,53 @@
-<h1 align="center">Hi, I'm Sizan</h1>
-<h3 align="center">MSc Artificial Intelligence · GREAT Scholar 2025</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shiamahmedsizan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sizan.szn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sizan99">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sizan99&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### About me
-
-I'm an AI/NLP engineer in training, currently completing my MSc in Artificial Intelligence at Aston University, Birmingham. My work sits at the intersection of **generative AI**, **multi-agent systems**, and **production NLP pipelines**.
-
-I care about building AI systems that are reliable by design — not just accurate, but architecturally resistant to hallucination and failure.
+<div align="center">
+  <h1>Hi, I'm Sizan 👋</h1>
+  <h3>I build LLM pipelines that verify their own output.</h3>
+  <p>MSc AI (Aston University) · Graduate AI/NLP Engineer Roles</p>
+  <p>
+    <a href="https://linkedin.com/in/shiamahmedsizan">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sizan.szn@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/sizan99">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### What I'm building
-
-🔬 **MSc Dissertation — Autonomous UK Biochar Directory** *(In Progress)*  
-A multi-agent AI pipeline using the Anthropic SDK to extract, verify, and store biochar company data from unstructured web and PDF sources. Hallucination is eliminated at the architectural level via an Actor-Critic verification loop, Pydantic schema enforcement, and UPSERT persistence into PostgreSQL.
+### 📍 Logistics
+- **Location:** Birmingham, UK (Available Immediately, Open to Relocate)
+- **Right to Work:** Graduate Route Visa
 
 ---
 
-### Featured projects
+### 💼 Experience
+
+- **Machine Learning Engineer** · *Flyrank*
+- **AI Intern** · *KeepFitKingdom*
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🤖 [Autonomous Robotic Control System](#) | Python, Webots, OpenCV, kinpy | 100% target reachability · <0.01m grasp accuracy |
-| 🧠 [NLP Scientific Article Classifier & Summarizer](#) | PyTorch, FastAPI, HuggingFace, scikit-learn | 76.5% accuracy · 1.7M document corpus · RAG pipeline |
-| 🥗 [mEAl — Evolutionary Meal Plan Optimizer](#) | Python, NumPy, Genetic Algorithms | Peak fitness in <20 generations · GSA benchmarked |
+| 🌍 **[AI-Assisted Biochar Directory](https://github.com/Sizan99/ai-assisted-biochar-directory)** <br/> *[🔗 Live Demo](https://ai-assisted-biochar-directory.vercel.app/)* | Python, Neon (pgvector), Vercel, Claude 3.5, Next.js | Automatically finds and fact-checks UK biochar companies against Companies House. |
+| 🤖 **[Autonomous Robotic Control System](https://github.com/Sizan99/autonomous-robotics-control-systems)** | Python, Webots, OpenCV | 100% target reachability & <0.01m grasp accuracy (Simulation) |
+| 🧠 **[NLP Scientific Article Classifier](https://github.com/Sizan99/nlp-scientific-article-classifier)** | PyTorch, FastAPI, HuggingFace | 76.5% accuracy on multi-class topic classification (vs 60% baseline) · 1.7M document corpus |
 
 ---
 
-### Tech stack
+### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgresql,git,vscode,github,bash&theme=light" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,flutter,react,nextjs,docker,linux,jupyter,markdown&theme=light" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic_Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Neon_Serverless-00E599?style=flat&logo=neon&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 
 ---
 
-### Currently
+### ⚡ Currently
 
-- 🎓 MSc AI at Aston University (2025 – Present)
-- 🔬 Building a multi-agent RAG pipeline for my dissertation
-- 📚 Deepening knowledge in LLM evaluation, MLOps, and cloud deployment
-- 💼 Open to **graduate AI/NLP engineer roles** and **AI internships** in the UK
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizan99&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sizan99&show_icons=true&hide_border=true&theme=default" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sizan99&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sizan99&theme=github-compact&hide_border=true" />
-</p>
+- 🎓 Graduating MSc AI at Aston University (Sept 2026)
+- 🔬 Refining multi-agent RAG architectures with deterministic constraints and `pgvector`.
+- ⚙️ Automating data ingestion pipelines with GitHub Actions and serverless Postgres.
